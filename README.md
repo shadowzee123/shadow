@@ -5,7 +5,7 @@
    <meta charset="UTF-8">
    <title>shadow!</title>
    <link rel="stylesheet" href="style.css">
-   <img src="profile.jpg" alt="My Profile Picture" width="200">
+   <img src="image.jpg" alt="My Profile Picture" width="200">
   <style>
     body {
       background-image: url('image.jpg'); /* or 'images/image.jpg' if it's in a folder */
